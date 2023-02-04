@@ -1,0 +1,8 @@
+name: FoodRestriction
+version: '${project.version}'
+main: me.mohsumzadah.foodrestriction.FoodRestriction
+api-version: 1.13
+website: www.github.com/mohsumzadah
+commands:
+  restrict:
+    description: ""
